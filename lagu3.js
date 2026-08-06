@@ -94,5 +94,65 @@ window.DAFTAR_LAGU = [
     penyanyi: "Batas Senja",
     search: "nanti kita seperti ini batas senja",
     chord: "[Intro]\nG D Em C\n\n[Verse 1]\nG           D\nBayangkan saat kita tua nanti\nEm          C\nDuduk berdua menikmati sore\nG           D\nSaling menggenggam jemari tangan\nEm          C\nMenceritakan kisah masa lalu\n\n[Chorus]\nG            D\nNanti kita seperti ini\nEm           C\nHidup bahagia sederhana\nG            D\nTak perlu kemewahan dunia\nEm           C\nCukup kau dan aku saja\n\n[Outro]\nG D Em C G"
+  },
+    {
+    judul: "Cundamani",
+    penyanyi: "Denny Caknan",
+    search: "cundamani denny caknan",
+    chord: "[Intro]\nC G Am Em F C Dm G\n\n[Verse 1]\nC             G\nSembah nuwun Gusti\nAm            Em\nKagungan welas asih\nF              C\nKinaryo urip iki\nDm             G\nMbentangaken tresno suci\n\n[Chorus]\nC             G\nTerus mangun karsa\nAm            Em\nBener luwih sampurna\nF             C\nMring sliramu sing kucinta\nDm            G\nCundamani pujaanku\n\n[Outro]\nC G Am Em F C G C"
+  },
+  {
+    judul: "Rungkad",
+    penyanyi: "Happy Asmara",
+    search: "rungkad happy asmara",
+    chord: "[Intro]\nAm Dm G C F Dm E\n\n[Verse 1]\nAm             Dm\nRungkad entek-entekan\nG              C\nKelangan kowe sing tak sayang\nF              Dm\nCoba kowe krasa\nE              Am\nNangis batinku ngrasa.\n\n[Chorus]\nAm             Dm\nRungkad... tabrak kabeh\nG              C\nTresno suci kandas kabeh\nF              Dm\nAti loro loro-lorone\nE              Am\nKowe malah marai.\n\n[Outro]\nAm Dm G C Am"
+  },
+  {
+    judul: "Sanes",
+    penyanyi: "Guyon Waton",
+    search: "sanes guyon waton",
+    chord: "[Intro]\nC G Am Em F C Dm G\n\n[Verse 1]\nC            G\nKowe sing tak sayangi\nAm           Em\nNanging malah nilar janji\nF            C\nKowe tresno karo liyane\nDm           G\nPerih atiku, loro rasane\n\n[Chorus]\nC             G\nPancen kowe sanes sing tak karepake\nAm            Em\nSanes sing tak impike\nF             C\nNanging kudu tak ikhlaske\nDm            G\nLelakon uripku iki\n\n[Outro]\nC G Am Em F C G C"
+  },
+  {
+    judul: "Hati-Hati di Jalan",
+    penyanyi: "Tulus",
+    search: "hati hati di jalan tulus",
+    chord: "[Intro]\nC G/B Am F\n\n[Verse 1]\nC            G/B\nKu kira kita akan bersama\nAm           F\nBegitu banyak yang sama\nC            G/B\nLatar belakang yang bermakna\nAm           F\nWaktu itu.\n\n[Chorus]\nC              G/B\nKira-kira ku salah apa?\nAm             F\nKamu mencari 'tuk ke sekian lama\nC              G/B\nKuharap kita tetap di jalur masing-masing\nAm             F\nHati-hati di jalan.\n\n[Outro]\nC G/B Am F C"
+  },
+  {
+    judul: "Sisa Rasa",
+    penyanyi: "Mahalini",
+    search: "sisa rasa mahalini",
+    chord: "[Intro]\nAm F C G\n\n[Verse 1]\nAm           F\nTerlihat jelas air mata di pipimu\nC            G\nUsai sudah perpisahan kita\nAm           F\nTersimpan kenangan yang takkan terlupa\nC            G\nTentang kisah cinta kita\n\n[Chorus]\nAm         F\nMengapa masih ada\nC          G\nSisa rasa di dada?\nAm         F\nSaat semua telah usai\nC          G\nDan kau miliki yang lain\n\n[Outro]\nAm F C G Am"
+  },
+  {
+    judul: "Melukis Senja",
+    penyanyi: "Budi Doremi",
+    search: "melukis senja budi doremi",
+    chord: "[Intro]\nG D Em C\n\n[Verse 1]\nG            D\nTengoklah ke luar, lihat malam mulai datang\nEm           C\nBintang-bintang bersinar, temani rasa tenang\nG            D\nTapi hatiku masih saja bimbang\nEm           C\nMengingat bayangmu yang hilang\n\n[Chorus]\nG            D\najari aku untuk melukis senja\nEm           C\nmenghias langit jadi warna cinta\nG            D\nagar kau tahu betapa ku merindukan\nEm           C\nkehadiranmu di sini.\n\n[Outro]\nG D Em C G"
+  },
+  {
+    judul: "Sebelum Cahaya",
+    penyanyi: "Letto",
+    search: "sebelum cahaya letto",
+    chord: "[Intro]\nC G Am F\n\n[Verse 1]\nC          G\nKupercaya angin berhembus\nAm         F\nMembawa sebersit rindu\nC          G\nMenyentuh lembut wajahmu\nAm         F\nYang selalu kurindukan\n\n[Chorus]\nC          G\nBawalah aku bersamamu\nAm         F\nMenuju cahaya yang baru\nC          G\nTemani setiap langkahku\nAm         F\nHingga akhir waktu\n\n[Outro]\nC G Am F C"
+  },
+  {
+    judul: "Sebuah Kisah Klasik",
+    penyanyi: "Sheila On 7",
+    search: "sebuah kisah klasik sheila on 7",
+    chord: "[Intro]\nC G Am F\n\n[Verse 1]\nC          G\nJauh dimata dekat di hati\nAm         F\nSempat merajut asa bersama\nC          G\nWaktu berjalan begitu cepat\nAm         F\nTersisa air mata bahagia\n\n[Chorus]\nC            G\nMari kita kenang sejenak\nAm           F\nPerjalanan yang tlah kita tempuh\nC            G\nSebuah kisah klasik untuk masa depan\nAm           F\nBiar jadi kenangan terindah\n\n[Outro]\nC G Am F C"
+  },
+  {
+    judul: "Cinta Ini Membunuhku",
+    penyanyi: "D'Masiv",
+    search: "cinta ini membunuhku dmasiv",
+    chord: "[Intro]\nAm F C G\n\n[Verse 1]\nAm           F\nKau tlah pergi tinggalkanku\nC            G\nTanpa pesan terakhir untukku\nAm           F\nMenyiksa batin di dalam dada\nC            G\nMengapa ini terjadi?\n\n[Chorus]\nAm         F\nKau membuatku bertekuk lutut\nC          G\nKau membuatku kehilangan arah\nAm         F\nCinta ini membunuhku\nC          G\nPerlahan-lahan merusak hatiku\n\n[Outro]\nAm F C G Am"
+  },
+  {
+    judul: "Separuh Aku",
+    penyanyi: "Noah",
+    search: "separuh aku noah",
+    chord: "[Intro]\nAm F C G\n\n[Verse 1]\nAm           F\nDan terjadi lagi\nC            G\nKisah lama yang terulang kembali\nAm           F\nKau terluka lagi\nC            G\nDari cinta yang semu\n\n[Chorus]\nAm         F\nWanku katakan pada dirimu\nC          G\nAkulah separuh hatimu\nAm         F\nJangan kau ragu ku kan menjaga\nC          G\nSeluruh sisa hidupmu\n\n[Outro]\nAm F C G Am"
   }
 ];
